@@ -7,5 +7,7 @@ public class Main {
         int max = salesManager.max();
 
         System.out.println(max);
+
+        System.out.println(salesManager.getAverageSale());
     }
 }
